@@ -1,4 +1,4 @@
-# calculator-exercise-template
+# calculator-exercise
 
 Write a Calculator class that contains four basic arithmetic methods: Add, Subtract, Multiply, and Divide. The Add, Subtract, and Multiply methods take two decimal values as input and return their corresponding results. The Divide method takes two decimal values as input and returns the result of dividing the first input by the second input.
 
